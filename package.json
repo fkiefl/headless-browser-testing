@@ -1,0 +1,29 @@
+{
+  "name": "tewo",
+  "version": "1.0.0",
+  "description": "automate daily tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkiefl/headless-browser-testing.git"
+  },
+  "keywords": [
+    "automate",
+    "headless",
+    "tasks",
+    "browser",
+    "puppeteer"
+  ],
+  "author": "Friedrich Kiefl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fkiefl/headless-browser-testing/issues"
+  },
+  "homepage": "https://github.com/fkiefl/headless-browser-testing#readme",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
